@@ -2,7 +2,7 @@
 
 **AI/ML Engineer** building production-ready LLM applications, generative AI pipelines, and NLP systems.
 
-I work at the intersection of **large language models**, **LangChain orchestration**, and **transformer fine-tuning** — turning research concepts into working systems. Currently seeking entry-level AI/ML engineering roles in Inited States or remote across the US.
+I work at the intersection of **large language models**, **LangChain orchestration**, and **transformer fine-tuning** — turning research concepts into working systems. Currently seeking entry-level AI/ML engineering roles in United States or remote across the US.
 
 ---
 
