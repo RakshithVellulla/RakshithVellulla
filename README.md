@@ -34,17 +34,4 @@ I work at the intersection of **large language models**, **LangChain orchestrati
 
 ---
 
-## 📈 What I'm building next
-
-- A **RAG pipeline** with vector search (FAISS / Pinecone) and LlamaIndex
-- LLM apps deployed with **FastAPI** + Gradio interfaces
-- Studying **speculative decoding** and inference optimization
-
----
-
-## 📫 Let's connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rakshith_Vellulla-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/rakshithvellulla)
-[![GitHub](https://img.shields.io/badge/GitHub-RakshithVellulla-181717?style=flat&logo=github)](https://github.com/RakshithVellulla)
-
 > Open to **Gen AI Engineer**, **ML Engineer**, **LLM Engineer**, and **AI Research** roles — 0–2 years experience. Remote or Minneapolis, MN.
